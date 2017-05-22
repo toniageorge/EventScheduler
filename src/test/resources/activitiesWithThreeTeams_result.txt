@@ -1,0 +1,38 @@
+Team 1:
+09:00 am: Duck Herding 60min
+10:00 am: Archery 45min
+10:45 am: Learning Magic Tricks 40min
+11:25 am: Lunch Break 60min
+12:25 pm: Laser Clay Shooting 60min
+01:25 pm: Human Table Football 30min
+01:55 pm: Buggy Driving 30min
+02:25 pm: Salsa & Pickles sprint
+02:40 pm: 2-wheeled Segways 45min
+03:25 pm: Viking Axe Throwing 60min
+04:25 pm: Giant Puzzle Dinosaurs 30min
+05:00 pm: Staff Motivation Presentation
+Team 2:
+09:00 am: Giant Digital Graffiti 60min
+10:00 am: Cricket 2020 60min
+11:00 am: Wine Tasting sprint
+11:15 am: Arduino Bonanza 30min
+11:45 am: Lunch Break 60min
+12:45 pm: Digital Tresure Hunt 60min
+01:45 pm: Enigma Challenge 45min
+02:30 pm: Monti Carlo or Bust 60min
+03:30 pm: New Zealand Haka 30min
+04:00 pm: Time Tracker sprint
+04:15 pm: Indiano Drizzle 45min
+05:00 pm: Staff Motivation Presentation
+Team 3:
+09:00 am: Indiano Drizzle 45min
+09:45 am: Duck Herding2 60min
+10:45 am: Archery2 45min
+11:30 am: Lunch Break 60min
+12:30 pm: Learning Magic Tricks2 40min
+01:10 pm: Laser Clay Shooting2 60min
+02:10 pm: Human Table Football2 30min
+02:40 pm: Buggy Driving2 30min
+03:10 pm: Salsa & Pickles2 sprint
+03:25 pm: 2-wheeled Segways2 45min
+05:00 pm: Staff Motivation Presentation
