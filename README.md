@@ -8,13 +8,13 @@ Deloitte Digital is rewarding their employees in recognition for their hard work
 6. Due to high spirit of the team there needs to be no gap between each activity 
 
 Assumptions:
-•	On the input file, each event is separated by new line
-•	Event description and time are separated by whitespace
-•	Last event is the presentation on ‘Staff Motivation’
-•	The path to the input file is given as a run-time argument
-Output:
-•	Application will be console-based and the list of scheduled events will be displayed on console.
-•	In addition a ‘text’ file will be created in the same directory of the input file. The name will be “<name of the input file>”+_result.txt
+1.	On the input file, each event is separated by new line
+2.	Event description and time are separated by whitespace
+3.	Last event is the presentation on ‘Staff Motivation’
+4. The path to the input file is given as a run-time argument
+   Output:
+5.	Application will be console-based and the list of scheduled events will be displayed on console.
+6.	In addition a ‘text’ file will be created in the same directory of the input file The name will be name of the inputfile+_result.txt         
 
 Steps to run:
 1.  Build the maven project
